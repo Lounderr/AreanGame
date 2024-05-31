@@ -2,7 +2,7 @@
 
 namespace ArenaGame
 {
-    public interface ISpecialWeapon
+    public interface ISpecial
     {
         SpecialElement SpecialElement { get; }
     }
